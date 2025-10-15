@@ -36,7 +36,7 @@
 
 ###
 
-<img align="right" height="200" src="https://gifdb.com/images/high/valorant-chamber-vct-playoffs-n5gush5dyx4xtx7n.webp"  />
+<img align="right" height="250" src="https://gifdb.com/images/high/valorant-chamber-vct-playoffs-n5gush5dyx4xtx7n.webp"  />
 
 ###
 
