@@ -120,18 +120,6 @@
 
 ###
 
-<h3 align="left">📊 My GitHub stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iVishav48&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="300" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iVishav48&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=true&order=2" height="300" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=iVishav48&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="300" alt="streak graph"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%F0%9F%92%A1%20Motto:%20%E2%80%9CKeep%20learning.%20Keep%20building.%E2%80%9D&fontSize=25&fontColor=c0c0c0&fontAlign=50&fontAlignY=50&stroke=-&descSize=12&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
